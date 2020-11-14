@@ -4,6 +4,7 @@ public class Etudiant implements Serializable{
 	private int identifiant; 
 	private String nom; 
 	private String prenom;
+	private int test;
 	public Etudiant() {
 		super();
 	}
